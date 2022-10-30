@@ -29,7 +29,7 @@
         <netty_version>3.2.5.Final</netty_version>
         <zookeeper_version>3.4.9</zookeeper_version>
         <zkclient_version>0.2</zkclient_version>
-        <curator_version>2.12.0</curator_version>
+        <curator_version>5.4.0</curator_version>
         <fastjson_version>1.2.31</fastjson_version>
         <log4j_version>1.2.16</log4j_version>
         <slf4j_version>1.7.25</slf4j_version>
