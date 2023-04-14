@@ -32,7 +32,7 @@
         <fastjson_version>1.2.31</fastjson_version>
         <log4j_version>1.2.16</log4j_version>
         <slf4j_version>1.6.1</slf4j_version>
-        <spring_version>4.3.10.RELEASE</spring_version>
+        <spring_version>5.2.24.RELEASE</spring_version>
         <maven.compiler.target>1.8</maven.compiler.target>
         <maven.compiler.source>1.8</maven.compiler.source>
         <skip_maven_deploy>false</skip_maven_deploy>
