@@ -24,6 +24,6 @@
   "dependencies": {
     "ip": "^1.1.5",
     "koa": "^2.4.1",
-    "koa-router": "^7.3.0"
+    "koa-router": "^11.0.2"
   }
 }
