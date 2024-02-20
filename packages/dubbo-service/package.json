@@ -18,7 +18,7 @@
     "url": "https://github.com/apache/dubbo-js"
   },
   "dependencies": {
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "@apache/dubbo-serialization": "0.0.1",
     "@apache/dubbo-common": "0.0.1",
     "get-port": "^5.1.1"
