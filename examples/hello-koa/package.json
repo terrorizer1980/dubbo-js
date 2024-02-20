@@ -22,7 +22,7 @@
     "@types/koa-router": "^7.4.1"
   },
   "dependencies": {
-    "ip": "^1.1.5",
+    "ip": "^1.1.9",
     "koa": "^2.4.1",
     "koa-router": "^7.3.0"
   }
