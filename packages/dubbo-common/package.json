@@ -18,6 +18,6 @@
     "url": "https://github.com/apache/dubbo-js"
   },
   "dependencies": {
-    "ip": "^1.1.5"
+    "ip": "^1.1.9"
   }
 }
